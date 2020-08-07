@@ -3,8 +3,8 @@
 membership_algorithm.py: 
 gives a .txt file including description of a DFA in below format:
 
-//alphabet: 
-a b
+//alphabet:   
+a b  
 //states: 
 Q0 Q1 Q2
 //start state: 
