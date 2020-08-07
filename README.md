@@ -1,6 +1,6 @@
 # State-Machines
 
-membership_algorithm.py: 
+membership_algorithm.py:   
 gives a .txt file including description of a DFA in below format:
 
 //alphabet:   
