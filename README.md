@@ -20,4 +20,4 @@ Q1 a Q2
 Q1 b Q2  
 
 ## NFA_to_DFA.py:
-Gives description of a NFA in "NFA_input_2.txt" file in the format mentioned above and convert it to DFA in new .txt named "DFA_Output_2.txt".
+Gives description of a NFA in "NFA_input_2.txt" file in the format mentioned above and convert it to DFA and put it in new .txt file named "DFA_Output_2.txt".
