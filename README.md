@@ -1,7 +1,7 @@
 # State-Machines
 
 ## membership_algorithm.py:   
-gives a file named "DFA_input_1.txt", including description of a DFA in below format:
+Gives a file named "DFA_input_1.txt", including description of a DFA in below format:
 
 //alphabet:   
 a b  
@@ -20,4 +20,4 @@ Q1 a Q2
 Q1 b Q2  
 
 ## NFA_to_DFA.py:
-gives description of a DFA in "NFA_input_2.txt" file in the format mentioned above and convert it to DFA in new .txt named "DFA_Output_2.txt".
+Gives description of a DFA in "NFA_input_2.txt" file in the format mentioned above and convert it to DFA in new .txt named "DFA_Output_2.txt".
